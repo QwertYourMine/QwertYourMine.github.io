@@ -2,7 +2,7 @@
 let questions = [
     {
       numb: 1,
-      question: "Seorang guru tidak masuk ke kelas yang diajarnya siang ini, ternyata guru tersebut tidak bisa menghadiri pemakaman keluarga. namun beliau tidak menginfokan atau mengonfirmasikan ketidakhadirannya pada muridnya. Apa pendapatmu mengenai hal ini?",
+      question: "Seorang guru tidak masuk ke kelas yang diajarnya siang ini, ternyata guru tersebut tidak bisa menghadiri kelas karena ada pemakaman keluarga. namun beliau tidak menginfokan atau mengonfirmasikan ketidakhadirannya pada muridnya. Apa pendapatmu mengenai hal ini?",
       answer: "kurang wajar",
       answer15: "wajar",
       answer10: "tidak wajar",
